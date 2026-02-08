@@ -1,0 +1,7 @@
+{
+  "name": "EGO - Premium Mining Platform",
+  "description": "A futuristic dark-mode mining platform with neon pink accents, featuring real-time price simulation, P2P transfers, and a 24-hour reward system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
